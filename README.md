@@ -1,5 +1,6 @@
 # linux
 
+```
        verbose 
        .
        .recursive             
@@ -13,3 +14,4 @@
        .....
        .....
 rsync -vrlpt /src .
+```
